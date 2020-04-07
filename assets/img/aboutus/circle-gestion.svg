@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="235px" height="235px" viewBox="0 0 235 235" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>Oval</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-44.4%" y="-44.4%" width="188.9%" height="188.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="20" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-5" transform="translate(-119.000000, -3578.000000)" fill="#7CBCB4">
+            <g id="Group-14" transform="translate(0.000000, 3233.000000)">
+                <g id="Group-11" transform="translate(133.000000, 122.000000)">
+                    <g id="Group-8" transform="translate(0.000000, 273.000000)">
+                        <g id="Group-9">
+                            <circle id="Oval" filter="url(#filter-1)" cx="103.5" cy="67.5" r="67.5"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
