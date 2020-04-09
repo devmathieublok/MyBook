@@ -47,6 +47,8 @@
 		<div data-aos="fade-down" data-aos-duration="250" data-aos-easing="ease-in" data-aos-delay="100" class="CircleRotate">
 			<img src="assets/img//pastille.svg" alt="Pastille">
 		</div>
+
+		<?php include 'portrait-hide.php'; ?>
 		<?php include 'script.php'; ?>
 	</body>
 	</html>

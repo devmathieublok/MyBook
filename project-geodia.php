@@ -30,10 +30,10 @@
 				<p data-aos="fade-up" data-aos-duration="800" data-aos-easing="ease-out" data-aos-delay="70"class="ProjectContentTxtTitle">The land surveyor</p>
 				<p data-aos="fade-up" data-aos-duration="800" data-aos-easing="ease-out" data-aos-delay="70"class="ProjectContentTxtP">He studies, projects and directs the development or land, rural or urban improvement of a public or private property.</p>
 			</div>
-			<img class="ProjectContentImg" src="assets/img/projects/geodia/mobile.png" alt="Image Projet" data-aos="fade-up" data-aos-duration="800" data-aos-easing="ease-out" data-aos-delay="100">
+			<img class="ProjectContentImg IphoneImgMobile" src="assets/img/projects/geodia/mobile.png" alt="Image Projet" data-aos="fade-up" data-aos-duration="800" data-aos-easing="ease-out" data-aos-delay="100">
 			<div class="ProjectContentTxtWrapper">
 				<p data-aos="fade-up" data-aos-duration="800" data-aos-easing="ease-out" data-aos-delay="70"class="ProjectContentTxtTitle">Production</p>
-				<p data-aos="fade-up" data-aos-duration="800" data-aos-easing="ease-out" data-aos-delay="70"class="ProjectContentTxtP">Project carried out in collaboration with La Fusée agency as part of my work-study program at Hétic in the 3rd year of the Web Bachelor’s degree</p>
+				<p data-aos="fade-up" data-aos-duration="800" data-aos-easing="ease-out" data-aos-delay="70"class="ProjectContentTxtP">Project carried out in collaboration with La Fusée agency as part of my work-study program at Hétic in the 3rd year of the Web Bachelor’s degree.</p>
 			</div>
 		</div>
 	</section>
@@ -47,6 +47,8 @@
 	<div data-aos="fade-down" data-aos-duration="250" data-aos-easing="ease-in" data-aos-delay="100" class="CircleRotate">
 		<img src="assets/img//pastille.svg" alt="Pastille">
 	</div>
+
+	<?php include 'portrait-hide.php'; ?>
 	<?php include 'script.php'; ?>
 </body>
 </html>

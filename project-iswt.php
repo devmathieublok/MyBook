@@ -23,12 +23,12 @@
 			<div class="ProjectContentTxtWrapper">
 				<p data-aos="fade-up" data-aos-duration="800" data-aos-easing="ease-out" data-aos-delay="70"class="ProjectContentTxtTitle">The project</p>
 				<p data-aos="fade-up" data-aos-duration="800" data-aos-easing="ease-out" data-aos-delay="70"class="ProjectContentTxtP">UI redesign + <span class="StrongProjectTxt">Front Development</span> of the In Sun We Trust simulator
-result page, a simple and Friendly approach based on illustration.</p>
+				result page, a simple and Friendly approach based on illustration.</p>
 				<div data-aos="fade-up" data-aos-duration="800" data-aos-easing="ease-out" data-aos-delay="70">
-					<a class="CTA" href="#!">Website<img class="ArrowCta" src="assets/img/aboutus/arrow.svg"></a>
+					<a class="CTA" href="http://yoakful.cluster020.hosting.ovh.net/" target="_blank">Website<img class="ArrowCta" src="assets/img/aboutus/arrow.svg"></a>
 				</div>
 			</div>
-			<img class="ProjectContentImg" data-aos="fade-up" data-aos-duration="800" data-aos-easing="ease-out" data-aos-delay="100" src="assets/img/projects/iswt/mobile.png" alt="Image Projet">
+			<img class="ProjectContentImg IphoneImgMobile" data-aos="fade-up" data-aos-duration="800" data-aos-easing="ease-out" data-aos-delay="100" src="assets/img/projects/iswt/mobile.png" alt="Image Projet">
 			<div class="ProjectContentTxtWrapper">
 				<p data-aos="fade-up" data-aos-duration="800" data-aos-easing="ease-out" data-aos-delay="70"class="ProjectContentTxtTitle">Production</p>
 				<p data-aos="fade-up" data-aos-duration="800" data-aos-easing="ease-out" data-aos-delay="70"class="ProjectContentTxtP">Project carried out in collaboration with Black Pizza agency as part of my work-study program at Hétic in the 2nd year of the Web Bachelor’s degree.</p>
@@ -45,6 +45,8 @@ result page, a simple and Friendly approach based on illustration.</p>
 	<div data-aos="fade-down" data-aos-duration="250" data-aos-easing="ease-in" data-aos-delay="100" class="CircleRotate">
 		<img src="assets/img//pastille.svg" alt="Pastille">
 	</div>
+
+	<?php include 'portrait-hide.php'; ?>
 	<?php include 'script.php'; ?>
 </body>
 </html>
