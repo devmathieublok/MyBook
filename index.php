@@ -104,6 +104,9 @@
 				<h4>About me</h4> <img src="assets/img/aboutme/me.svg" alt="Picto">
 			</div>
 			<p data-aos="fade-up" data-aos-duration="800" data-aos-easing="ease-out" data-aos-delay="100">In 2017, I had the opportunity to study at Les Gobelins, where I acquired the fundamentals skills in order to work in the graphic industry. Currently, on my final year of a Web Bachelor at Hétic, <span class="MainColorP">I’m now working at the heart of the digital</span> field as UI Designer and Front Developer.</p>
+			<p data-aos="fade-up" data-aos-duration="800" data-aos-easing="ease-out" data-aos-delay="100">
+				Fusce laoreet justo <span class="CustomerListColor">Client/Client/Client.</span>
+			</p>
 		</section>
 
 		<section class="AboutUs">
